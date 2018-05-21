@@ -4,4 +4,4 @@
 
 
 
-To have a whole picture about this project, read final presentation.
+To have a whole picture about this project, read final presentation first.
